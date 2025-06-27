@@ -18,7 +18,7 @@ Scikit-learn – Machine learning model and evaluation
 Matplotlib, Seaborn – Data visualization
 Jupyter Notebook – Interactive experimentation
 
-#  Predicted Water Quality Parameters
++ Predicted Water Quality Parameters
 The model predicts multiple water quality parameters such as:
 
 NH4
@@ -26,7 +26,7 @@ BOD5 (BSK5)
 Colloids
 O2, NO3, NO2, SO4, PO4 and
 CL
-# Model Performance
++ Model Performance
 The model was evaluated using:
 
 R² Score
@@ -36,7 +36,7 @@ Performance was acceptable across all parameters
 # Pollution Model link
 https://drive.google.com/file/d/1MwEeR7NsYpGmn4texsVYAQWWav4cP_04/view?usp=drive_link
 
-# Internship Details
++ Internship Details
 Internship Type: AICTE Virtual Internship - Edunet Foundation
 Sponsor: Shell
 Duration: June 2025 (1 month)
