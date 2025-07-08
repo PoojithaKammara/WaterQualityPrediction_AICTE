@@ -5,10 +5,10 @@ Access to clean water is a critical global concern. Accurate prediction of vario
 
 In this project, we:
 
-Collected and preprocessed real-world water quality datasets
-Used supervised machine learning for multi-target regression
-Built a pipeline using MultiOutputRegressor with RandomForestRegressor
-Evaluated the model using appropriate regression metrics
+-Collected and preprocessed real-world water quality datasets.
+-Used supervised machine learning for multi-target regression
+-Built a pipeline using MultiOutputRegressor with RandomForestRegressor
+-Evaluated the model using appropriate regression metrics
 
 # Pollution Model link
 https://drive.google.com/file/d/1MwEeR7NsYpGmn4texsVYAQWWav4cP_04/view?usp=drive_link
